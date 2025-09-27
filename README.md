@@ -5,18 +5,23 @@ This project focuses on analyzing an **E-commerce Sales Dataset** using **Excel*
 ## 📂 Repository Contents
 - **Ecommerce_Sales_Excel_Analysis.xlsx** → Excel-based data cleaning, preprocessing, and pivot table analysis.  
 - **Ecommerse_Sales_Analysis_Tableau_Dashboard.twbx** → Tableau packaged workbook containing interactive dashboards.  
-- **Ecommerse_Sales_Analysis_Tableau_Dashboard.pdf** → Exported PDF version of the Tableau dashboards for quick reference.  
+- **Ecommerse_Sales_Analysis_Tableau_Dashboard.png** → Exported PNG version of the Tableau dashboards for quick reference.
+- **Sales Prediction model.ipynb** → Jupyter Notebook implementing sales prediction using ML techniques. 
 - **ecommerce_dataset.csv** → Raw dataset used for analysis.  
 
 ## 🔍 Objectives
 - Analyze **sales performance** across categories, regions, and time periods.  
 - Identify **top-performing products** and **low-performing products**.  
 - Evaluate **profitability trends** and **discount impact**.  
-- Provide **interactive dashboards** for better decision-making.  
+- Provide **interactive dashboards** for better decision-making.
+- Build a **sales prediction model** for forecasting.  
 
 ## 🛠 Tools & Technologies
 - **Microsoft Excel** → Data cleaning, pivot tables, trend analysis.  
-- **Tableau** → Interactive dashboards and visualizations.  
+- **Tableau** → Interactive dashboards and visualizations.
+- **Python (Pandas, Matplotlib, Seaborn, Scikit-learn)** → Predictive modeling & advanced analytics.  
+- **CSV Dataset** → Input data for analysis.  
+
 - **CSV Dataset** → Input data for analysis.  
 
 ## 📊 Key Insights (from analysis)
@@ -36,6 +41,8 @@ Explore:
 Excel file for pivot tables and summary analysis.
 
 Tableau dashboard (.twbx) for interactive exploration.
+
+Jupyter notebook for sales prediction.
 
 📌 Future Scope
 Automating analysis with Python/Pandas.
